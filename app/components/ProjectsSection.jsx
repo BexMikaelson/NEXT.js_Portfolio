@@ -5,7 +5,7 @@ import ImageGallery from "./ImageGallery";
 
 const projectsData = [
     {
-      id: 4,
+      id: 1,
       title: "Battleship game",
       description: "Battleship game where you play against the computer, who can sink each other's ships first! Created in React Vite.",
       image: "/images/BattleShip_game_img.png",
